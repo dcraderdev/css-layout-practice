@@ -1,0 +1,18 @@
+.add-user {
+  border: 3px solid black;
+}
+
+input,
+label {
+  display: flexbox;
+  justify-content: center;
+  align-items: center;
+}
+
+.last-name,
+.first-name {
+  display: flexbox;
+  justify-content: center;
+  align-items: cente;r
+}
+list-style: ;
